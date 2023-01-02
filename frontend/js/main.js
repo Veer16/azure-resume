@@ -19,3 +19,12 @@ const getVisitCount = () => {
       });
     return count;
 }
+
+/*
+Deploy the Azure funstion and get the function URL 
+Update the JS Code with the new Azure Function URL 
+Deploy the website to the Blob storage 
+Setup Azure CDN for HTTPs support
+Setip custom domain 
+
+*/
